@@ -1,0 +1,1 @@
+The LABEL instruction adds metadata to an image. 
