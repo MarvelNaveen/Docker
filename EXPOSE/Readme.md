@@ -1,0 +1,1 @@
+The EXPOSE instruction informs Docker that the container listens on the specified network ports at runtime
