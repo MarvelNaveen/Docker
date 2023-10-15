@@ -3,3 +3,5 @@ The ENV instruction sets the environment variable <key> to the value <value>. Th
 If you want to overwrite inside of the container also will work after exexcuted.
 
 ## ENV is a instruction to provide environmental variables for image & containers
+
+ENV is used to set the environmental variables for image & comntainer levels
